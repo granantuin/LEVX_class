@@ -1,11 +1,9 @@
-# LEVX_class
-classification wind speed and direction
 # Model_vs_station_classification
-
+classification wind: speed and direction
 
 Improving meteorological models accuracy with machine learning Classification
 
-VIGO (LEVX)
+VIGO Airport (LEVX)
 
 *J.Robinat*
 
