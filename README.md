@@ -11,16 +11,16 @@ VIGO (LEVX)
 
 ***Wind direction***
 
-[Display model Results](https://github.com/granantuin/Model_vs_station_classification/blob/master/Display_data_model_label_dir.ipynb)
+[Display model Results](https://github.com/granantuin/LEVX_class/blob/master/Display_data_model_label_dir.ipynb)
 
-[Four classifiers](https://github.com/granantuin/Model_vs_station_classification/blob/master/four_class_thershold_dir.ipynb)
+[Four classifiers](https://github.com/granantuin/LEVX_class/blob/master/four_class_LEVX_dir.ipynb)
 
-[Tensorflow](https://github.com/granantuin/Model_vs_station_classification/blob/master/tensorflow_label_dir.ipynb)
+[Tensorflow](https://github.com/granantuin/LEVX_class/blob/master/tensorflow_label_LEVX_dir.ipynb)
 
 ***Wind speed***
 
-[Display model Results](https://github.com/granantuin/Model_vs_station_classification/blob/master/Display_data_model_label_spd.ipynb)
+[Display model Results](https://github.com/granantuin/LEVX_class/blob/master/Display_data_model_label_spd.ipynb)
 
-[Four classifiers](https://github.com/granantuin/Model_vs_station_classification/blob/master/four_class_thershold_spd.ipynb)
+[Four classifiers](https://github.com/granantuin/LEVX_class/blob/master/four_class_label_LEVX_spd.ipynb)
 
-[Tensorflow](https://github.com/granantuin/Model_vs_station_classification/blob/master/tensorflow_label_spd.ipynb)
+[Tensorflow](https://github.com/granantuin/LEVX_class/blob/master/tensorflow_label_LEVX_spd.ipynb)
