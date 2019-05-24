@@ -1,4 +1,3 @@
-# Model_vs_station_classification
 Classification wind: speed and direction
 
 Improving meteorological models accuracy with machine learning Classification
